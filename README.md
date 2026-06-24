@@ -47,9 +47,3 @@ Current price (Jun 22, 2026): $30.54. Scenarios: bear $26, base $38, bull $45.
 ## Data sources
 
 Chipotle fourth-quarter and full-year 2025 results and 2025 10-K (SEC EDGAR); stockanalysis.com (S&P Global) for multi-year financials, market data, and peer multiples; U.S. 10-year Treasury yield (June 2026).
-
-## Disclaimer
-
-This is an educational project, not investment advice or a recommendation to buy or sell any security. Figures are as of June 2026 and rely on third-party data that may contain errors. Verify against primary filings before relying on any output.
-
-Built by Luke Yin.
